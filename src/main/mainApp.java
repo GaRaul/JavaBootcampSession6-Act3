@@ -1,5 +1,9 @@
 package main;
 
+/* 
+ * @author: Raul
+ * */
+
 import objetos.Electrodomesticos;
 
 public class mainApp {
